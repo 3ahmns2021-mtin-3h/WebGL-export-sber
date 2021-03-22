@@ -1,10 +1,10 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+this is a test project for a WebGL export  
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity Version 2020.1.5f1
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Simon M. Berger
